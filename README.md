@@ -24,14 +24,6 @@
 ### 1.	Move the r-axis slider and observe the movement of the r-axis assembly.
 ### 2.	Move the y-axis slider and observe the movement of the y-axis assembly.
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
-
-## OUTPUT:
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)   
-
-
 Y-AXIS BASE : The base of the printer that supports the rest of the components.
 
 Z-AXIS FRAME : This is the frame that holds the print head and moves it up and down along the vertical axis.
@@ -57,6 +49,14 @@ PLATE : plate where the printed object is created.
 EXTRUDER : melts and extrudes the filament to create the printed object.
 
 FILAMENT : material that is used to create the printed object.
+## OUTPUT:
+
+![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+
+![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)   
+## OUTPUT:
+![image](https://github.com/ASHWINKUMAR2903/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119407186/807e2bc2-f3de-4681-b3ec-a26edeb3ad5d)
+
 ### Name: ASHWIN KUMAR
 ### Register Number: 212222100006
 
